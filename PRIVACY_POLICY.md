@@ -1,36 +1,66 @@
-# Privacy Policy
+Privacy Policy
 
-Last updated: October 2025
+Last updated: March 2026
 
-This privacy policy explains how the app Planary (“the App”) handles user data.
+This Privacy Policy describes how Planary (“the App”) handles user data.
 
-## Data Collection
-Daycraft does **not collect, store, transmit, or share any personal data**.
+⸻
 
-All tasks, routines, and related information created in the app are stored **locally on your device only** using Apple’s Core Data framework.
+Information Collection
 
-## Data Usage
-- No data is sent to any server
-- No analytics or tracking tools are used
-- No user accounts or logins are required
-- No third-party services receive any data
+Planary does not collect, store, transmit, or share any personal data.
 
-## Data Sharing
-Daycraft does **not share data** with third parties.
+All tasks, routines, schedules, and related information created within the app are stored locally on your device using Apple’s Core Data framework.
 
-## Data Storage
-All data remains on your device and is managed by iOS.  
-If you delete the app, all associated data is permanently removed.
+Planary does not:
+	•	Require user accounts or logins
+	•	Collect analytics data
+	•	Use tracking technologies
+	•	Access location data
+	•	Use advertising SDKs
+	•	Integrate third-party data services
+
+⸻
+
+Data Usage
+
+All data remains on your device.
+No information is sent to external servers.
+
+Planary does not access, analyze, or transmit your content.
+
+⸻
+
+Data Sharing
+
+Planary does not share data with third parties.
+
+⸻
+
+Data Storage
+
+All information is stored locally on your device and managed by iOS.
+
+If you delete the app, all associated data is permanently removed from your device.
 
 Your device may include app data in system backups (such as iCloud device backups), which are controlled entirely by you and Apple.
 
-## Children’s Privacy
-Daycraft does not knowingly collect any personal information from children under the age of 13.
+⸻
 
-## Changes to This Policy
-If the app’s data practices change, this privacy policy will be updated accordingly.
+Children’s Privacy
 
-## Contact
-If you have questions or concerns about this privacy policy, you may contact:
+Planary does not knowingly collect personal information from children under the age of 13.
 
-Email: rajatimalsina@gmail.com
+⸻
+
+Changes to This Policy
+
+If Planary’s data practices change in the future, this Privacy Policy will be updated accordingly.
+
+⸻
+
+Contact
+
+If you have any questions about this Privacy Policy, you may contact:
+
+Email: planarysupport@gmail.com
