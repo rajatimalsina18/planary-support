@@ -1,18 +1,19 @@
 # Privacy Policy
 
-**Last updated: June 2026**
+**Last updated: July 2026**
 
 This Privacy Policy explains how **Planary** (“Planary,” “the App,” “we,” “us,” or “our”) handles information.
 
-Planary is designed as a privacy-first, local-only productivity and planning app. The App helps users manage tasks, routines, schedules, challenges, reminders, streaks, and progress insights without requiring an account, backend service, analytics, advertising, or cloud sync.
+Planary is designed as a privacy-first, local-only productivity and planning app. The App helps users manage tasks, routines, schedules, challenges, reminders, timers, streaks, and progress insights without requiring an account, backend service, analytics, advertising, or cloud sync.
 
 ## Summary
 
 Planary does **not collect personal data from the App**.
 
-Your tasks, routines, challenges, schedules, notes, reminders, completion history, streaks, and progress information are stored locally on your device using Apple’s local storage technologies, including Core Data.
+Your tasks, routines, challenges, schedules, notes, reminders, completion history, streaks, timers, and progress insights are stored locally on your device using Apple’s local storage technologies, including Core Data.
 
 Planary does not:
+
 - Require an account or login
 - Collect analytics
 - Use tracking technologies
@@ -29,7 +30,7 @@ Planary does not:
 
 ## Information Stored Locally On Your Device
 
-Planary may store the following information locally on your device when you choose to create or edit it in the App:
+Planary may store the following information locally on your device when you choose to create, edit, track, or schedule it in the App:
 
 - Tasks
 - Task titles
@@ -43,19 +44,28 @@ Planary may store the following information locally on your device when you choo
 - Routine schedules and intervals
 - Challenge templates
 - Challenge start dates, durations, and progress
+- Timer state and timer preferences
 - Local reminder preferences
 - Streaks and progress insights
 - App settings and display preferences
 
-This information is stored on your device and is used only to provide the App’s planning, routine, challenge, scheduling, reminder, and insight features.
+This information is stored on your device and is used only to provide the App’s planning, routine, challenge, scheduling, reminder, timer, and insight features.
 
 We do not receive this information.
+
+## Health, Fitness, and Challenge Entries
+
+Planary may allow you to create or track routines and challenges that relate to personal goals, habits, fitness, hydration, sleep, reading, focus, or similar activities.
+
+Any such information you enter is stored locally on your device. Planary does not collect, transmit, analyze, sell, or share this information.
+
+Planary is not a medical app and does not provide medical advice, diagnosis, treatment, or professional health recommendations.
 
 ## Information We Collect Through The App
 
 We do **not** collect personal data through the App.
 
-Planary does not transmit your tasks, routines, schedules, challenge progress, notes, reminders, or insight data to us or to a Planary server.
+Planary does not transmit your tasks, routines, schedules, challenge progress, notes, reminders, timer activity, or insight data to us or to a Planary server.
 
 ## Optional Support Emails
 
@@ -70,14 +80,18 @@ Support emails are used only to respond to your request, troubleshoot issues, an
 
 Please do not send sensitive personal information unless it is necessary for your support request.
 
+You may request deletion of support emails you have sent by contacting us at the email address listed below.
+
 ## Notifications
 
 Planary uses Apple’s local notification system to provide optional reminders.
 
 Notifications may include:
+
 - Task reminders for scheduled tasks
 - Periodic planning reminders
 - Challenge reminder check-ins
+- Timer completion alerts
 
 These notifications are scheduled locally on your device through iOS. Notification content and scheduling information are not sent to us.
 
@@ -96,11 +110,14 @@ Planary does not use third-party analytics, advertising, or tracking SDKs.
 Planary does not use a backend server, analytics provider, advertising network, or third-party tracking service.
 
 The App may rely on Apple system frameworks and services, such as:
+
 - Core Data for local storage
 - UserNotifications for local notifications
 - iOS system settings and device-level backup behavior
 
 Apple’s handling of device, App Store, iCloud, and system-level data is governed by Apple’s own privacy policies and settings.
+
+If this Privacy Policy or any support page is hosted by a third-party website provider, that provider may process standard web request information according to its own privacy policy. This does not change Planary’s App data practices.
 
 ## Device Backups
 
@@ -116,11 +133,13 @@ To delete Planary data from your device, you can delete the App from your device
 
 If you restore your device from a backup, previously backed-up Planary data may be restored by iOS.
 
+For support emails, you may contact us to request deletion of emails you previously sent to us.
+
 ## Children’s Privacy
 
 Planary is not directed toward children under 13.
 
-Planary does not knowingly collect personal information from children. Because Planary does not collect personal data through the App, we do not knowingly collect personal information from users of any age.
+Planary does not knowingly collect personal information from children. Because Planary does not collect personal data through the App, we do not knowingly collect personal information from users of any age through the App.
 
 ## Security
 
